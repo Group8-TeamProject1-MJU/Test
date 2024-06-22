@@ -55,3 +55,7 @@
 
 # 📹완성본 결과 동영상
 유튜브 영상: <a href="https://www.youtube.com/watch?v=1BRQhjjtLGE&t=53s&ab_channel=JeheeCheon">링크 클릭</a>
+
+### 부록
+인증 토큰을 쿠키에 저장하도록 구현해둔 상태인데 프론트와 백엔드 배포된 곳의 도메인이 각각 다른 상태입니다.  
+따라서 IOS와 Safari 환경에서 Cross site tracking 이슈로 인해 로그인이 정상 작동 되지 않습니다.  
