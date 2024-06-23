@@ -1,6 +1,12 @@
-# 🕹️Flashback Arcade
+# 팀프로젝트
+## 🕹️Flashback Arcade
 팀프로젝트 강의에서 진행한 토이 프로젝트  
 웹사이트: <a href="https://zealous-forest-0f6f05700.3.azurestaticapps.net">링크 클릭</a>
+<br/>
+<br/>
+
+## 개빌기간
+2023-09 ~ 2023-11
 <br/>
 <br/>
 
